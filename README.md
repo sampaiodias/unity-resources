@@ -8,6 +8,7 @@ Collection of tools, guides and other resources for the Unity game engine and re
 
 ### Programming
 - [VisualStudio Shortcuts](https://www.dofactory.com)
+- [Book "Game Programming Patterns"](https://gameprogrammingpatterns.com/)
 
 ### Modelling
 - [FBX: Blender 2.8 to Unity](https://www.reddit.com/r/Unity3D/comments/adu35q/perfect_fbx_export_settings_from_blender_28_to/)
