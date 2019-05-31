@@ -8,7 +8,7 @@ Collection of tools, guides and other resources for the Unity game engine and re
 
 ### Programming
 - [VisualStudio Shortcuts](https://www.dofactory.com)
-- [Book "Game Programming Patterns"](https://gameprogrammingpatterns.com/)
+- ["Game Programming Patterns" book by Robert Nystrom](https://gameprogrammingpatterns.com/)
 - ["Game Programming Patterns" video playlist by Unity3D College](https://www.youtube.com/playlist?list=PLB5_EOMkLx_VOmnIytx37lFMiajPHppmj)
 - ["SOLID for Unity" video playlist by Unity3D College](https://www.youtube.com/playlist?list=PLB5_EOMkLx_WjcjrsGUXq9wpTib3NCuqg)
 
