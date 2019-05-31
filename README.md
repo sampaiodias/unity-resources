@@ -10,10 +10,11 @@ Collection of tools, guides and other resources for the Unity game engine and re
 - [DOTween (tweening tool)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
 - [xNode (graphs and nodes)](https://github.com/Siccity/xNode)
 - [Graphy (performance tracking)](https://github.com/Tayx94/graphy)
+- [Lean Pool (object pooling)](https://assetstore.unity.com/packages/tools/utilities/lean-pool-35666)
 
 ### Paid
 - [Odin - Inspector and Serializer](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041)
-- [DoozyUI](https://assetstore.unity.com/packages/tools/gui/doozyui-complete-ui-management-system-138361)
+- [DoozyUI (complete UI system)](https://assetstore.unity.com/packages/tools/gui/doozyui-complete-ui-management-system-138361)
 
 ## Guides
 
