@@ -2,7 +2,8 @@
 Collection of tools, guides and other resources for the Unity game engine and related topics.
 
 ## Free Assets
-- [Kenney](https://www.kenney.nl)
+- [Kenney (3D Models and Sprites)](https://www.kenney.nl)
+- [DOTween (tweening tool)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
 
 ## Guides
 
