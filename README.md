@@ -3,27 +3,33 @@ Collection of tools, guides and other resources for the Unity game engine and re
 
 *Note: Content made by Unity is omitted on purpose, as the goal of this repo is to highlight the work made by the community and because Unity tools and assets are widely known to most people. However, there are a few exceptions that I'd like to mention for their great quality and usefulness: TextMesh Pro, Cinemachine, PostProcessing Stack, and ProBuilder. You can download them using the Package Manager.*
 
+# Table of Contents
+* [Free Assets](#free-assets)
+* [Great Tools](#great-tools)
+* [Guides](#guides)
+
+
 ## Free Assets
 - [OpenGameArt.org](https://opengameart.org)
-- [Kenney (3D Models and Sprites)](https://www.kenney.nl)
+- [Kenney](https://www.kenney.nl) - 3D Models and Sprites.
 - [Textures.com](https://www.textures.com/)
-- [Mixamo (3D Animations)](https://www.mixamo.com)
-- [Ansimuz (Pixel Art)](https://ansimuz.itch.io/)
+- [Mixamo](https://www.mixamo.com) - 3D Animations.
+- [Ansimuz](https://ansimuz.itch.io/) - Pixel Art.
 
-## Great Tools/Plugins
+## Great Tools
 
 ### Free
 
-- [DOTween (tweening tool)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
-- [xNode (graphs and nodes)](https://github.com/Siccity/xNode)
-- [Graphy (performance tracking)](https://github.com/Tayx94/graphy)
-- [Lean Pool (object pooling)](https://assetstore.unity.com/packages/tools/utilities/lean-pool-35666)
+- [DOTween](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676) - Tweening tool via script.
+- [xNode](https://github.com/Siccity/xNode) - Graphs and nodes inside the editor.
+- [Graphy](https://github.com/Tayx94/graphy) - Performance tracking.
+- [Lean Pool](https://assetstore.unity.com/packages/tools/utilities/lean-pool-35666) - Object pooling library.
 
 ### Paid
-- [GitKraken (better Git experience, free for non-commercial projects)](https://www.gitkraken.com/invite/6CFY7pSQ)
-- [Odin - Inspector and Serializer](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041)
-- [DoozyUI (complete UI system)](https://assetstore.unity.com/packages/tools/gui/doozyui-complete-ui-management-system-138361)
-- [InControl (cross-platform input manager](https://assetstore.unity.com/packages/tools/input-management/14695)
+- [GitKraken ](https://www.gitkraken.com/invite/6CFY7pSQ) - Much better Git experience, free for non-commercial projects.
+- [Odin - Inspector and Serializer](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041) - Greatly improved workflows for custom inspectors and serializing objects.
+- [DoozyUI](https://assetstore.unity.com/packages/tools/gui/doozyui-complete-ui-management-system-138361) - Complete UI system.
+- [InControl](https://assetstore.unity.com/packages/tools/input-management/14695) - Cross-platform input manager.
 
 ## Guides
 
