@@ -27,7 +27,7 @@ Collection of tools, guides and other resources for the Unity game engine and re
 - [Lean Pool](https://assetstore.unity.com/packages/tools/utilities/lean-pool-35666) - Object pooling library.
 
 ### Paid
-- [GitKraken ](https://www.gitkraken.com/invite/6CFY7pSQ) - Much better Git experience, free for non-commercial projects.
+- [GitKraken](https://www.gitkraken.com/invite/6CFY7pSQ) - Much better Git experience, free for non-commercial projects.
 - [Odin - Inspector and Serializer](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041) - Greatly improved workflows for custom inspectors and serializing objects.
 - [DoozyUI](https://assetstore.unity.com/packages/tools/gui/doozyui-complete-ui-management-system-138361) - Complete UI system.
 - [InControl](https://assetstore.unity.com/packages/tools/input-management/14695) - Cross-platform input manager.
@@ -62,3 +62,4 @@ Collection of tools, guides and other resources for the Unity game engine and re
 
 ### Programming
 - [S.O.L.I.D. Principles](samples/solid-principles/)
+- [S.O.L.I.D. Item System](samples/solid-item-system/)
