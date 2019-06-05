@@ -61,5 +61,5 @@ Collection of tools, guides and other resources for the Unity game engine and re
 ## Samples
 
 ### Programming
-- [S.O.L.I.D. Principles](samples/solid-principles/)
-- [S.O.L.I.D. Item System](samples/solid-item-system/)
+- [SOLID Principles](samples/solid-principles/)
+- [SOLID Item System](samples/solid-item-system/)

@@ -24,7 +24,7 @@
 
         private void DropItemsOnTheGround()
         {
-            for (int i = 0; i < items.inventory.Length; i++)
+            for (int i = 0; i < items.GetItems().Length; i++)
             {
                 //Drop the item on the ground
             }

@@ -5,8 +5,8 @@
 
     public abstract class Character : MonoBehaviour, ICharacter
     {
-        public CharacterStats stats;
-        public CharacterItems items;
+        public Stats stats;
+        public Items items;
 
         public abstract void OnDespawn();
         public abstract void OnSpawn();

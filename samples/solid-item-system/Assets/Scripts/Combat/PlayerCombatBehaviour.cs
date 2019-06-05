@@ -15,12 +15,12 @@
 
         public void PrimaryAttack()
         {
-            character.items.primary.Use();
+            character.items.UseWeapon(0);
         }
 
         public void SecondaryAttack()
         {
-            character.items.secondary.Use();
+            character.items.UseWeapon(1);
         }
     }
 }

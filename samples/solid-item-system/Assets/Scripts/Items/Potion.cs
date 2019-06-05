@@ -5,12 +5,17 @@
     [CreateAssetMenu(menuName = "Items/Artifacts/Potion")]
     public class Potion : Artifact
     {
-        public CharacterStats stats;
+        private Character character;
         public float healAmount;
+
+        public override void Config(Character character)
+        {
+            this.character = character;
+        }
 
         public override void Use()
         {
-            stats.health.Heal(healAmount);
+            character.stats.Heal(healAmount);
         }
     }
 }

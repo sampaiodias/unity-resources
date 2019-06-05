@@ -29,7 +29,7 @@
         private void OnTriggerEnter(Collider other)
         {
             var character = other.GetComponent<Character>();
-            character.stats.health.Damage(weapon.Damage);
+            character.stats.Damage(weapon.Damage);
         }
     }
 }

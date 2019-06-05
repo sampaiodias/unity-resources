@@ -1,5 +1,5 @@
-# S.O.L.I.D. Principles
-Script examples of how to use [S.O.L.I.D.](https://en.wikipedia.org/wiki/SOLID) in Unity.
+# SOLID Principles
+Script examples of how to use [SOLID](https://en.wikipedia.org/wiki/SOLID) in Unity.
 
 * [Single Responsibility](Assets/Scripts/Single%20Responsibility)
 	* A class should only have a single responsibility, that is, only changes to one part of the software's specification should be able to affect the specification of the class.
