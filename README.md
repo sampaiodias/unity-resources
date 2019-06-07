@@ -48,8 +48,9 @@ Collection of tools, guides and other resources for the Unity game engine and re
 - [FBX: Blender 2.8 to Unity](https://www.reddit.com/r/Unity3D/comments/adu35q/perfect_fbx_export_settings_from_blender_28_to/)
 
 ### Programming
-- [Visual Studio Shortcuts](https://www.dofactory.com)
+- [Visual Studio Shortcuts](https://www.dofactory.com/reference/visual-studio-shortcuts)
 - [Visual Studio Productivity Tips](https://www.youtube.com/watch?v=lKtwxz35P5M)
+- [C# Coding Standards](https://www.dofactory.com/reference/csharp-coding-standards)
 - ["Game Programming Patterns" book by Robert Nystrom](https://gameprogrammingpatterns.com/)
 - ["Game Programming Patterns" video playlist by Unity3D College](https://www.youtube.com/playlist?list=PLB5_EOMkLx_VOmnIytx37lFMiajPHppmj)
 - ["SOLID for Unity" video playlist by Unity3D College](https://www.youtube.com/playlist?list=PLB5_EOMkLx_WjcjrsGUXq9wpTib3NCuqg)
